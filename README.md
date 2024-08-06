@@ -2,7 +2,7 @@
 
 </br>
 
-### [Play the Game](https://ravireddy07.github.io/Project_Memory_Game/)
+### [Play the Game](https://gojurjeevan.github.io/Memory-Game/)
 
 </br>
 
