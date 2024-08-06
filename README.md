@@ -6,10 +6,10 @@
 
 </br>
 
-[![Ravi Kanth Gojur](https://img.shields.io/badge/Author-@ravireddy07-gray.svg?colorA=gray&colorB=dodgerblue&logo=github)](https://github.com/ravireddy07/) [![Maintenance](https://img.shields.io/maintenance/yes/2022?color=green&logo=github)](https://github.com/ravireddy07/)
+[![Jeevan Gojur](https://img.shields.io/badge/Author-@ravireddy07-gray.svg?colorA=gray&colorB=dodgerblue&logo=github)](https://github.com/GojurJeevan/) [![Maintenance](https://img.shields.io/maintenance/yes/2022?color=green&logo=github)](https://github.com/GojurJeevan/)
 
 
-## Google India Scholarship - Udacity Front End Web Developer Nanodegree Project
+## Udacity Front End Web Developer Nanodegree Project
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
